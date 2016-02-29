@@ -19,7 +19,7 @@ CompSci 290: Finding Bugs
 
 ###New Bugs
 
-1. BUG TITLE
+1. Broken profile page on mobile
   * Bug Report First Draft
   * Bug Report Revised Draft
   * [Link to submitted Bug report](https://jira.sakaiproject.org/browse/SAK-XXX)
