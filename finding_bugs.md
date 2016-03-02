@@ -22,7 +22,7 @@ CompSci 290: Finding Bugs
 1. Broken profile page on mobile
   * Bug Report First Draft
   * Bug Report Revised Draft
-  * [Link to submitted Bug report](https://jira.sakaiproject.org/browse/SAK-XXX)
+  * [Link to submitted Bug report](https://jira.sakaiproject.org/browse/SAK-30408)
 
 2. BUG TITLE
   * Bug Report First Draft
