@@ -22,6 +22,6 @@ CompSci 290: Progress Report
  * Bug identified, will try and fix the one I found.
 
 ###To do:
-  *Submit the screenshots/history of the install.
-  *Make a pull request to the class repo, submit a patch
-  *Make progress/hopefully fix my bug.
+  * Submit the screenshots/history of the install.
+  * Make a pull request to the class repo, submit a patch
+  * Make progress/hopefully fix my bug.
