@@ -17,7 +17,7 @@ CompSci 290: Progress Report
 ### What can you do to be more productive next time you are working on a similar task?
 
 Progress as of 3/7:
-  -Webinar was visted on 2/26, need to do writeup
+  -Webinar was visted on 2/26, need to do writeup \n
   -Sakai is succesfully installed and running on local VM.
   -Bug identified, will try and fix the one I found.
 
