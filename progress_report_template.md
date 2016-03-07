@@ -20,6 +20,7 @@ CompSci 290: Progress Report
  * Webinar was visted on 2/26, need to do writeup
  * Sakai is succesfully installed and running on local VM.
  * Bug identified, will try and fix the one I found.
+ *    https://jira.sakaiproject.org/browse/SAK-30408
 
 ###To do:
   * Submit the screenshots/history of the install.
