@@ -20,3 +20,8 @@ Progress as of 3/7:
 Webinar was visted on 2/26, need to do writeup
 Sakai is succesfully installed and running on local VM.
 Bug identified, will try and fix the one I found.
+
+To do:
+Submit the screenshots/history of the install.
+Make a pull request to the class repo, submit a patch
+Make progress/hopefully fix my bug.
