@@ -1,0 +1,25 @@
+From 089924b344301182114844feb35b16e2a1dff7b4 Mon Sep 17 00:00:00 2001
+From: Michael Niemi <mikevniemi@gmail.com>
+Date: Fri, 11 Mar 2016 16:36:50 -0500
+Subject: [PATCH] broke some java
+
+---
+ .../tool/src/java/org/sakaiproject/login/tool/ContainerLogin.java       | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/login/login-tool/tool/src/java/org/sakaiproject/login/tool/ContainerLogin.java b/login/login-tool/tool/src/java/org/sakaiproject/login/tool/ContainerLogin.java
+index ee92b91..5392039 100644
+--- a/login/login-tool/tool/src/java/org/sakaiproject/login/tool/ContainerLogin.java
++++ b/login/login-tool/tool/src/java/org/sakaiproject/login/tool/ContainerLogin.java
+@@ -114,7 +114,7 @@ public class ContainerLogin extends HttpServlet
+ 			Authentication a = AuthenticationManager.authenticate(e);
+ 
+ 			// login the user
+-			if (UsageSessionService.login(a.getUid(), a.getEid(), req.getRemoteAddr(), req.getHeader("user-agent"), UsageSessionService.EVENT_LOGIN_CONTAINER))
++			if (UsageSessionService.login(a.getUid(), a.getEid(), req.getRemoteAddr(), req.getHeader("user-agasdasdasbroken...ent"), UsageSessionService.EVENT_LOGIN_CONTAINER))
+ 			{
+ 				// get the return URL
+ 				String url = getUrl(session, Tool.HELPER_DONE_URL);
+-- 
+1.9.1
+
