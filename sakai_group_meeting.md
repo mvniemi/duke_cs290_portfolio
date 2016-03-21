@@ -4,8 +4,8 @@ CompSci 290: Sakai Group Meeting
 ### What group's meeting did you attend and when:
  The Morpheus for Fixers webinar on 2/24
 ### Generally, what topics were discussed at the meeting:
-  -One of the developers went through his proccess of fixing a bug
-  -I noted the following things during his presentation
+-One of the developers went through his proccess of fixing a bug
+-I noted the following things during his presentation
   -He talked about using sass instead of css, its benifits
   -intro to the css for sakai, modifying display and all that
   -making changes to it and compiling it
