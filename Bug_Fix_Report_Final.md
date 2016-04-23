@@ -24,10 +24,10 @@ For me this is where it is tricky, as I have no experience at all with web devel
 I did end up coming up with a somewhat palatable fix, in which the profile pciture frame was moved on top of the main panel instead of on top of it. I did a couple of changes to do this. I set the pageWrapper width to 100% instead of a fixed pixel count, which prevents the screen overrun. Next I set the mainPanels' relative position to be 250px below and 0px to the left of the leftPanel. The result is a page that isn't as broken, but does not represent the original style of the page. 
 
 Here is the fix on mobile:
-[](fixmob.png)
+![](fixmob.png)
 
 Here it is on desktop:
-[](fixdesk2.png)
+![](fixdesk2.png)
 
 ## Submitting a Pull Request (Why I didn't):
 From the start of working on this bug I had reservations about submitting a pull request to master, as my fix did not represent the original page style on desktop, and I do not have faith in my CSS/HTML skills. While it looks OK to me, I am worried that it will just be a thorn in the side of Sakai's dedicated developers.
@@ -38,5 +38,4 @@ However, this turned out not to end up being an issue. As I was working on my bu
 While I regret not being able to submit a pull request to master, I think avoiding doing so was the correct option. In diagnosing the bug I was able to get an introductry understanding of CSS of which I had no prior experience, and was able to create a palatable fix that I could have commited and submitted as a bug fix. However, I do not believe submitting a bug fix I knew was sub-par to the master project would have been productive for the sakai community. If I were to get more involved in fixing these types of bugs, I would seek mentorship from experienced developers in order to do it properly.
 
 
-**WHy this is ok, I'm very inexperienced with CSS and would likely have just caused more problems w/regression
 
