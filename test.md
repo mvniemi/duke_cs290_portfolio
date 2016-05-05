@@ -1,7 +1,7 @@
-[foo](#foo)
+[Foo](#foo)
 asd
 sdg
 gdsgf
 dsgfs
-# foo
+# Foo
 hello
