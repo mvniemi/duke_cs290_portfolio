@@ -1,9 +1,12 @@
-Hi!
 
 ##Summary:
 For my final project I wanted to focus on understanding the 
 
-The meat of my project is a python script, generatemd.py, that parses dependency reports from maven and produces two markdown pages that allow the user to navigate the libraries that are implemented in Sakai. When executed in the base directory, given that Sakai has been properly deployed, the script will automatically query maven to get the dependency list and the dependency tree. From this it extractes a list of the Sakai modules and maps them to their imported libraries. Two markdown pages are then produced from this data and placed in the reports folder along with the other lists that were generated.
+The imporant script generated reports: JavaLibReport.md and SakaiModuleReport.md in the reports folder
+
+The meat of my project is a python script, generatemd.py, that parses dependency reports from maven and produces two markdown pages that allow the user to navigate the libraries that are implemented in Sakai. When executed in the base directory, given that Sakai has been properly deployed, the script will automatically query maven to get the dependency list and the dependency tree. From this it extractes a list of the Sakai modules and maps them to their imported libraries. Two markdown pages are then produced from this data, along with supplied csv data on the libraries(optional) and placed in the reports folder along with the other lists that were generated.
+
+The important part, and reason for, generating the Markdown files is twofold. The markdown report allows link navigation among packages and modules. Additionally, when data on the libriaries(descriptions,links to documentation, categories) is filled into csvin.csv, the subcategories in JavaLibReport will contain useful info for the packages.
 
 While this script is setup for Sakai, it should work for any maven build, although there are some filters that are specific to Sakai (ignoring imports from within the project)
 
