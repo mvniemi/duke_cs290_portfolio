@@ -3,6 +3,8 @@ Hi!
 ##Summary:
 For my final project I wanted to focus on understanding the 
 
+The meat of my project is a python script, generatemd.py, that parses dependency reports from maven and produces two markdown pages that allow the user to navigate the libraries that are implemented in Sakai. When executed in the base directory, given that Sakai has been properly deployed, the script will automatically query maven
+
 ##Initial Goals
  * Compare imports of Sakai 2.9 and 11
    *  This didn't go so well as I could not get Sakai 2.9 to compile fully to show all imports
