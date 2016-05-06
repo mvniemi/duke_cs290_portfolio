@@ -2,7 +2,7 @@
 ##Summary:
 My final project takes maven dependency reports and generates a useful basic wiki-like markdown page providing a navigable display of the dependency tree.
 
-The imporant script generated reports: JavaLibReport.md and SakaiModuleReport.md in the reports folder
+The imporant script generated reports: `JavaLibReport.md` and `SakaiModuleReport.md` in the `reports` folder
 
 The meat of my project is a python script, generatemd.py, that parses dependency reports from maven and produces two markdown pages that allow the user to navigate the libraries that are implemented in Sakai. When executed in the base directory, given that Sakai has been properly deployed, the script will automatically query maven to get the dependency list and the dependency tree. From this it extractes a list of the Sakai modules and maps them to their imported libraries. Two markdown pages are then produced from this data, along with supplied csv data on the libraries(optional) and placed in the reports folder along with the other lists that were generated.
 
