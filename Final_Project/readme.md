@@ -21,7 +21,7 @@ While this script is setup for Sakai, it should work for any maven build, althou
 My intial goals of more complex web interfaces and data analysis did not match up with the time I could allocate to the project. Instead I settle with a proof of concept, a prototype of a script that can attach on to maven and provide a human readable report on the dependency strucure. This can be used for any maven project, and given proper development with fancy web interfaces, could provide visual interactive reports of the complex dependency structure found in large software projects
 
 ## Things to improve/expand:
-*Right now you have to manually edit csvout and save as csvin before you can get the full script to run (you need at least five columns of data). It should be fairly straightforward to fix.
+* Right now you have to manually edit csvout and save as csvin before you can get the full script to run (you need at least five columns of data). It should be fairly straightforward to fix.
 * The csv wiki needs to be filled in! A little bit of grunt work with ~100 entries.
 * The string parsing is kludgy and likely not to be reliable across builds.
 * More interative web design would be nice!
