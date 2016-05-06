@@ -1,0 +1,492 @@
+Sakai Master
+Sakai Kernel
+Sakai Component Manager
+Sakai Kernel API
+Sakai Kernel Util
+sakai-velocity base pom
+sakai-velocity-tool-api
+sakai-courier base pom
+sakai-courier-api
+sakai-velocity-tool
+Sakai Access Project
+sakai-access-impl
+OAuth Base
+OAuth API
+access
+web
+Sakai Alias Project
+sakai-alias-tool
+sakai-message base pom
+sakai-message-api
+sakai-announcement base pom
+sakai-announcement-api
+Sakai Kernel Storage Util
+Sakai Job Scheduler Project (base pom)
+Sakai Job Scheduler API (scheduler-api)
+sakai-message-util
+sakai-site base pom
+sakai-mergedlist-util
+sakai-announcement-impl
+sakai-announcement-pack
+Sakai Entity Broker
+Sakai Entity Broker API
+Sakai Entity Broker Utilities
+sakai-announcement-tool
+Sakai Common Project
+archive-api
+Sakai educational Services Project
+Sakai Course Management Project
+coursemanagement-api
+Sakai Archive Project
+sakai-archive-tool
+Sakai Import Implementation
+Sakai Announcement Import Handlers
+Sakai Import Components Package
+sakai-taggable base pom
+sakai-taggable-api
+sakai-assignment base pom
+sakai-assignment-api
+sakai-assignment-bundles
+gradebook-service-api
+sakai-calendar base pom
+sakai-calendar-api
+Content Review
+Content Review API
+sakai-assignment-impl
+sakai-assignment-pack
+Sakai Scoring Service
+scoring-service-api
+sakai-assignment-tool
+Sakai Userauditservice Base POM (userauditservice)
+Sakai Userauditservice API (userauditservice-api)
+Sakai AuthZ Project
+sakai-authz-tool
+BasicLTI base pom (basiclti)
+BasicLTI API (basiclti-api)
+Tsugi LTI Utilities (basiclti-util variant)
+Sakai Privacy API
+sakai-portal base (neo)
+sakai-portal-api
+sakai-portal-util
+BasicLTI Common (basiclti-common)
+BasicLTI Docs (basiclti-docs)
+Portlet utilities (portlet-util)
+Sakai Common Manager API
+Sakai Common Type API
+Sakai Common EduPerson API
+Profile2
+Profile2 API
+BasicLTI Implementation (basiclti-impl)
+BasicLTI Component Package (basiclti-pack)
+BasicLTI Portlet (imsblti)
+BasicLIS Implementation (imsblis)
+Basic LTI Admin Tool (basiclti-tool)
+sakai-web-portlet-basiclti
+sakai-calendar-bundles
+Sakai Calendar Hibernate
+sakai-calendar-util
+sakai-calendar-impl
+sakai-calendar-pack
+Sakai JSF Base POM (jsf)
+Sakai JSF Tool Servlet (jsf-tool)
+Sakai JSF Extensions (jsf-app)
+Sakai JSF Widgets - MyFaces RI (jsf-widgets-myfaces)
+Sakai JSF Widgets (jsf-widgets)
+Sakai JSF Widgets Dependencies for MyFaces
+       (sakai-depend-jsf-widgets-myfaces)
+sakai-calendar-summary-tool
+sakai-calendar-tool
+Sakai Chat Project
+sakai-chat-api
+Sakai Search Project
+sakai-search-api
+sakai-courier-util
+sakai-chat-impl
+sakai-chat-pack
+sakai-presence base pom
+sakai-presence-api
+sakai-presence-util
+Sakai JSF Widgets - Sun RI (jsf-widgets-sun)
+Sakai JSF widget dependencies for Sun's RI
+       (sakai-depend-jsf-widgets-sun)
+sakai-chat-tool
+Citations Project
+sakai-citations-api
+sakai-citations-web2bridge
+sakai-citations-util
+sakai-citations-xserver
+sakai-citations-impl
+savecite
+sakai-citations-tool
+sakai-citations-pack
+coursemanagement-hibernate-model
+coursemanagement-hibernate-impl
+Course Management Provider
+Sakai Common API Composite Component Data
+Sakai Common API Composite Component
+Sakai Common Components Package
+Sakai Privacy HBM
+Sakai Privacy Component Impl
+Sakai Privacy Pack
+archive-impl2
+archive-pack
+sakai-lessonbuildertool base pom
+sakai-lessonbuildertool-api
+Sakai Content Import Handlers
+Sakai Import Common Cartridge
+Sakai Import Blackboard 5.5
+Sakai Import Blackboard 6.x
+Sakai Samigo Project (samigo)
+Sakai Samigo API (samigo-api)
+Sakai Samigo Hibernate POJO (samigo-hibernate)
+Sakai Sections Project
+Sakai Sections API
+Sakai Samigo Services (samigo-services)
+Sakai Samigo QTI Services (samigo-qti)
+Sakai Samigo Import Handlers (samigo-import)
+Sakai Archive Import
+Sakai Import Components Package
+Sakai Content Util
+Sakai Import Blackboard 6.x
+Sakai Config Project
+configuration-bundles
+localization-bundles
+localization-pack
+shared-i18n-bundles
+shared-i18n-pack
+Sakai Cloud Content Providers
+Sakai Cloud Resources Providers (impl)
+Sakai Cloud Resources Components
+Sakai Content Project
+content-cleanup
+content-cleanup-impl
+content-cleanup-pack
+sakai-content-copyright-api
+sakai-content-copyright-impl
+sakai-content-copyright-pack
+content-providers-impl
+content-providers-pack
+content-metadata-api
+content-metadata-impl
+content-metadata-pack
+content-bundle
+content-tool
+content-types
+Sakai Content Types Component Package
+Content Review Implementation
+Content Review DAO Implementation
+Content Review Service Implementation
+Content Review Turnitin Implementation
+Content Review VeriCite Implementation
+Content Review Pack
+sakai-courier-impl
+sakai-courier-pack
+courier
+dashboard - Base
+dashboard - API
+dashboard - APP
+dashboard - Bundles
+dashboard - Utility
+dashboard - Tool
+sakai-dashboard-hbm
+Sakai Job Scheduler Events Model
+Sakai Job Scheduler Component (scheduler-component-shared)
+dashboard - Implementation
+dashboard - Components
+Sakai DAV Project
+sakai-dav-common
+dav
+sakai-dav-server
+Sakai Hierarchy
+Sakai Hierarchy API
+Delegated Access - Base
+Delegated Access - API
+Delegated Access - Tool
+Delegated Access - Implementation
+Delegated Access - Components
+Sakai Deploy: Base POM
+Sakai Deploy: common/lib
+Sakai Deploy: shared/lib
+gradebook-service-hibernate
+sakai-sections-impl-standalone
+sakai-sections-integrationsupport
+gradebook-service-impl
+gradebook-service-pack
+sakai-gradebook-service
+coursemanagement-hibernate-pack
+sakai-sections-model
+sakai-sections-impl
+sakai-sections-pack
+scoring-service-impl
+scoring-service-component
+Sakai Emailtemplateservice Base POM (emailtemplateservice)
+Sakai Emailtemplateservice API (emailtemplateservice-api)
+Sakai emailtemplateservice Deploy POM
+Sakai emailtemplateservice Shared Deploy
+Sakai Emailtemplateservice Implementation (emailtemplateservice-impl)
+Sakai Emailtemplateservice Components Package (emailtemplateservice-pack)
+sakai-rsf
+sakai-rsf-core
+sakai-rsf-web
+sakai-rsf-web-evolvers
+sakai-rsf-web-templates
+Sakai Emailtemplateservice Tool (emailtemplateservice-tool)
+Sakai Entity Broker Mock Objects
+Sakai Entity Broker Implementation
+Sakai Entity Broker REST Implementation
+Sakai Entity Broker Tool (Direct Servlet)
+Sakai Entity Broker Components Pack
+Sakai Entity Broker Core Providers
+External Calendaring Service
+External Calendaring Service :: API
+External Calendaring Service :: Implementation
+External Calendaring Service :: Components
+Sakai Feedback Tool
+Sakai Gradebook Project
+sakai-gradebook-app
+sakai-gradebook-app-business
+Sakai JSF Spreadsheet Support (jsf-spreadsheet)
+sakai-gradebook-app-ui
+sakai-gradebook-tool
+Sakai Gradebook REST
+GradebookNG
+GradebookNG :: Tool
+Sakai Help Project
+sakai-help-content
+sakai-help-api
+sakai-comp-shared-help
+sakai-comp-help
+Sakai JSF Tool using Sun's RI (jsf-sun-ri-tool)
+sakai-help-tool
+Sakai Hierarchy Implementation
+Sakai Hierarchy Components Pack
+Sakai Job Scheduler Deploy POM (scheduler-deploy)
+Sakai Job Scheduler Shared Deploy (scheduler-shared)
+Sakai Job Scheduler Component (scheduler-component)
+Sakai Job Scheduler Tool (scheduler-tool)
+Sakai Job Scheduler Test Component (scheduler-test-component)
+Sakai Job Scheduler Test Component Shared Library (scheduler-test-component-shared)
+Sakai JSF widgets resources (jsf-resource)
+Sakai JSF Tool Using Sun's RI (jsf-myfaces-tool)
+Sakai Kernel Private Package
+Sakai Core Kernel Implementation
+Sakai Kernel Component Package
+Kernel Common
+Kernel Direct Common Deployer
+Kernel Direct Shared Deployer
+Sakai Deployment Project
+sakai-lessonbuildertool-tool-hbm
+sakai-search-util
+sakai-lessonbuildertool-tool-components
+Sakai Message Center Base POM
+Sakai Message Forums API
+Sakai Message Forums Hibernate Module
+sakai-lessonbuildertool-tool
+Sakai Login Project
+sakai-login-api
+authn
+sakai-login-impl
+login-pack
+login-render-engine-impl
+login-render
+sakai-login-tool
+Sakai Mail Archive Project
+sakai-mailarchive-api
+sakai-mailarchive-impl
+sakai-mailarchive-pack
+sakai-mailarchive-subetha
+sakai-mailarchive-tool
+Sakai Mail Sender Project
+Sakai Mail Sender API
+Sakai Mail Sender Impl
+Sakai Mail Sender Components Pack
+Sakai Mail Sender Tool
+Sakai Memory Project
+sakai-memory-tool
+sakai-message-tool
+message-search-adapters-impl
+message-search-adapters-pack
+Sakai Message Forums Tool
+Sakai Message Forums Component Implementation
+Sakai Message Forums Components
+OAuth Implementation
+OAuth Hibernate DAO
+OAuth In-memory DAO
+OAuth ServerConfig DAO
+OAuth Component
+OAuth Tool
+Sakai Public Address System
+pasystem-api
+pasystem-impl
+pasystem-pack
+pasystem-tool
+Sakai Podcast Project
+sakai-podcasts-api
+sakai-podcasts-impl
+sakai-podcasts-pack
+podcasts
+sakai-podcasts
+Sakai Polls Project base pom (polls)
+Sakai Polls API Module (polls-api)
+Sakai Polls Implementation Module (polls-impl)
+Sakai Polls Component Package (polls-pack)
+Sakai Polls Tool Module (polls-tool)
+sakai-editor
+sakai-portal-render-api
+sakai-portal-impl
+sakai-portal (charon)
+sakai-portal chat
+sakai-portal-render-impl
+sakai-portal-render-pack
+sakai-portal-render-engine-impl
+sakai-portal-render
+sakai-portal-service-impl
+sakai-portal-service-pack
+sakai-portal-shared-deploy
+sakai-portal tool
+Sakai Postem Project
+sakai-postem-api
+sakai-postem-hbm
+sakai-postem-impl
+sakai-postem-pack
+Sakai Postem Tool
+sakai-presence-impl
+sakai-presence-pack
+sakai-presence-tool
+Profile2 UTIL
+Profile2 IMPL
+Profile2 PACK
+Profile2 Bundle
+Profile2 TOOL
+Sakai Providers Project
+sakai-allhands-provider
+sakai-coursemanagement-authz-provider-impl
+sakai-sample-provider
+sakai-jldap-provider-mock
+sakai-jldap-provider
+sakai-kerberos-provider
+sakai-imsent-provider
+sakai-federating-provider
+sakai-provider-pack
+sakai-openldap-provider
+Sakai TextArea Project
+sakai-fck-connector
+Sakai Library Project
+Sakai Library
+Reset Password and Account Validator
+Sakai AccountValidator API
+Reset pass
+Sakai Account Validator Implementation
+Sakai Account Validator Components Pack
+Sakai Account Validator Tool
+Sakai Rights Project
+sakai-rights-api
+sakai-rights-impl
+sakai-rights-pack
+sakai-rights-tool
+Sakai SiteStats
+Sakai SiteStats API
+ROSTER2 TOOL
+sakai-rsf-web-test
+Sakai RWiki Project
+sakai-rwiki-api
+sakai-radeox
+sakai-rwiki-model
+sakai-rwiki-util
+sakai-rwiki-impl
+sakai-rwiki-diff
+sakai-rwiki-pack
+sakai-rwiki-tool
+wiki
+Sakai Samigo Content Packaging (samigo-cp)
+Sakai Samigo Tool (samigo-app)
+Samigo Impl
+Sakai Samigo Lite Service Implementaiton (samlite-impl)
+Sakai Samigo Component Package (samigo-pack)
+search-test-1.7
+Sakai Search Project
+search-impl
+search-pack
+search-model
+sakai-search-tool
+ElasticSearch Base
+Sakai search - ElasticSearch impl
+Sakai search - ElasticSearch component
+Sakai Sections Project
+sakai-sections-app-util
+sakai-sections-tool
+Sakai Shortened URL Service
+Sakai Shortened URL Service API
+Sakai Shortened URL Service Implementations
+Sakai Shortened URL Service Pack
+Sakai Shortened URL Service Resolver Servlet
+Sakai Signup Module
+Sakai Signup API
+Sakai Signup Implementation
+Sakai Signup Components Pack
+Sakai Signup Tool
+RSS portlet for Sakai
+Sakai AdminSitePerms
+sakai-site-tool
+sakai-message-bundle-manager-tool
+sakai-site-manage base pom
+sakai-site-pageorder-helper
+sakai-siteassociation-api
+sakai-siteassociation-hbm
+sakai-siteassociation-impl
+sakai-siteassociation-pack
+sakai-siteassociation-util
+sakai-siteassociation-tool
+sakai-site-manage-api
+sakai-site-manage-hbm
+sakai-site-manage-util
+Sakai Userauditservice Util (userauditservice-util)
+sakai-site-manage-impl
+sakai-site-manage-pack
+sakai-site-manage-tool
+sakai-site-manage-group-helper
+sakai-site-manage-group-section-role-helper
+sakai-site-manage-group-section-role-helper-pack
+sakai-site-manage-participant-helper
+sakai-site-manage-link-helper
+Sakai SiteStats Bundle
+Sakai SiteStats Hibernate
+Sakai SiteStats Implementation
+Sakai SiteStats Components
+Sakai SiteStats Tool
+Sakai Syllabus Project
+Sakai Syllabus API
+sakai-syllabus-hbm
+sakai-syllabus-impl
+sakai-syllabus-pack
+sakai-syllabus-tool
+sakai-taggable-hbm
+sakai-taggable-impl
+sakai-taggable-pack
+sakai-calendar-connector
+elfinder-connector
+Sakai Tool Project
+sakai-tool-tool-su
+Sakai User Project
+sakai-user-tool
+sakai-user-tool-admin-prefs
+sakai-user-tool-prefs
+Sakai Userauditservice Deploy POM
+Sakai userauditservice Shared Deploy
+Sakai Userauditservice Implementation (userauditservice-impl)
+Sakai Userauditservice Components Package (userauditservice-pack)
+Sakai Userauditservice Tool (userauditservice-tool)
+Sakai User Membership  Project
+sakai-usermembership-api
+sakai-usermembership-impl
+sakai-usermembership-pack
+sakai-usermembership-tool
+Sakai Web Project
+sakai-web-api
+sakai-web-impl
+sakai-web-pack
+sakai-web-tool
+sakai-web-portlet
+Sakai WebServices Project
+Sakai Soap (CXF)
+Sakai base pom
