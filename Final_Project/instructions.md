@@ -5,4 +5,4 @@
 5. Open it up and fill in the info for each package...it can also be left blank, though the first five columns must have data present.(Bug)
 6. Name the edited spreadsheet csvin.csv
 7. Run python generatemd.py build
-8. The markdown reports are now in /report, if everythin went well!
+8. The markdown reports are now in /report, if everything went well!
