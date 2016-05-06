@@ -338,11 +338,15 @@ def buildData(built):
     for module in modArray:
         count=len(moduleDict[module])
         count=str(count)
+        module=  str.replace(module,'(','')
+        module = str.replace(module, ')', '')
         mdout.write('* [' + module + '](#' + str.replace(str.lower(module), ' ', '-') + ')' +'(' + count+')\n' )
 
     # mdout.write('\n# ' + name + '\n  * ' + desc + '\n')
     for module in modArray:
-        mdout.write('\n\n # '+module)
+        moduletemp=str.replace(module,'(','')
+        moduletemp = str.replace(moduletemp, ')', '')
+        mdout.write('\n\n # '+moduletemp)
         for jar in moduleDict[module]:
             mdout.write('\n * '+jar)
 
