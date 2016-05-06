@@ -1,6 +1,6 @@
 
 ##Summary:
-For my final project I wanted to focus on understanding the 
+My final project takes maven dependency reports and generates a useful basic wiki-like markdown page providing a navigable display of the dependency tree.
 
 The imporant script generated reports: JavaLibReport.md and SakaiModuleReport.md in the reports folder
 
@@ -33,4 +33,4 @@ I was suprised how finicky proccesing my input files were. Even the tinies of sp
 
 
 ## Lessons:
-For me this was a lesson in the neccesity of being familiar with a broader variety of languages and programming tools. My experience at Duke has only exposed me to Python, C++, C and Assembly working with basic command line programs. I had no prior experience with web or database work. It was frustrating knowing exactly what needed to be done, parsing maven reports into a data format and then generating a visual represetation of the data, but having to programming language skills to implement it. This is the other way around for something like algorithms or my OS class, where the hard part is working out how the algorithm was. I kept thinking if only I could control web interfaces with python while looking at javaScript D3 examples. Ultimately, I was happy to
+For me this was a lesson in the neccesity of being familiar with a broader variety of languages and programming tools. My experience at Duke has only exposed me to Python, C++, C and Assembly working with basic command line programs. I had no prior experience with web or database work. It was frustrating knowing exactly what needed to be done, parsing maven reports into a data format and then generating a visual represetation of the data, but having to programming language skills to implement it. This is the other way around for something like algorithms or my OS class, where the hard part is working out how the algorithm was. I kept thinking if only I could control web interfaces with python while looking at javaScript D3 examples. Ultimately, I was happy to have a working script capable of transforming raw output into (basic) webpages. I enjoyed the fact that markdown pages can be generated so simply with basic scripting and no libraries, though getting it just right can be tricky.
